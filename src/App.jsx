@@ -9,7 +9,7 @@ import Upload from "./components/Upload"; // Updated to UploadBattle
 import RapBattle from "./components/RapBattle";
 import Dashboard from "./components/Dashboard";
 import About from "./components/About"; // Import the About component
-  // change by dipanshu
+  
 const App = () => {
   const [uploadedBattles, setUploadedBattles] = useState([]);
 
