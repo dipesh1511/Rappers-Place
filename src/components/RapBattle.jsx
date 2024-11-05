@@ -2,12 +2,12 @@ import React, { useState } from "react";
 
 // Sample rapper images (you can replace these with actual images)
 const rapperImages = {
-  "MC Stan": "https://via.placeholder.com/150/FF0000/FFFFFF?text=MC+Stan",
-  "DJ Rohit": "https://via.placeholder.com/150/00FF00/FFFFFF?text=DJ+Rohit",
+  "MC Stan": "https://play-lh.googleusercontent.com/1PrF1cahZpucy6N6V6OvCveVZGj8C1ydbp7kUNKfvFwSiMmpwQgn1aRjVPm-UU89nWc=w526-h296-rw",
+  "DJ Rohit": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLvcYPOKh3Lbz8xznEjeAS4WBPRiZ91UsKBA&s",
   "Gabbar Master":
-    "https://via.placeholder.com/150/0000FF/FFFFFF?text=Gabbar+Master",
-  "Rap King": "https://via.placeholder.com/150/FFFF00/FFFFFF?text=Rap+King",
-  Baba: "https://via.placeholder.com/150/FF00FF/FFFFFF?text=Baba",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPTvY9n991glp2Es8l70JEaacfq6GzTugpng&s",
+  "Rap King": "https://www.hindustantimes.com/ht-img/img/2023/12/18/1600x900/KIng_1702883730139_1702883730337.jpg",
+  "Baba": "https://images.hindustantimes.com/rf/image_size_640x362/HT/p2/2016/11/02/Pictures/baba-sehgal_20d1ecb8-a0f8-11e6-93ed-ab826829dd0b.jpg",
 };
 
 const RapBattle = () => {
