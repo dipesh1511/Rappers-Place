@@ -12,7 +12,7 @@ const Home = () => {
       description: "An epic showdown between two legends in the rap game.",
       author: "MC Flow",
       date: "October 30, 2024",
-      image: "../assets/event.jpg",
+      image: "https://res.cloudinary.com/monthly/image/upload/v1686611003/monthly-admin-images/behind-scenes-product/New%20MCP/ERB_STUDIO_LANDING.jpg",
     },
     {
       id: 2,
@@ -20,7 +20,7 @@ const Home = () => {
       description: "The streets are alive with this intense rap battle.",
       author: "DJ Beats",
       date: "November 1, 2024",
-      image: "../assets/rapper2.jpg",
+      image: "https://c8.alamy.com/comp/2D10JC9/florence-italy-2020-september-26-unidentified-b-boy-break-dancers-perform-in-the-street-hip-hop-battle-at-a-informal-street-dance-meet-2D10JC9.jpg",
     },
     {
       id: 3,
@@ -28,7 +28,7 @@ const Home = () => {
       description: "Two titans clash in this ultimate rap showdown.",
       author: "Rhythm Master",
       date: "November 2, 2024",
-      image: "../assets/rapper1.jpg",
+      image: "https://i1.sndcdn.com/avatars-000188978369-2frw9v-t500x500.jpg",
     },
     {
       id: 4,
@@ -36,7 +36,7 @@ const Home = () => {
       description: "Witness the journey of an underdog in the rap world.",
       author: "Lyrical Genius",
       date: "November 3, 2024",
-      image: "../assets/rapper3.jpg",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNhc7VLDEfhH5j_V4hxrKv6-q4S2qqKYoG9w&s",
     },
     {
       id: 5,
@@ -44,7 +44,7 @@ const Home = () => {
       description: "Old school meets new school in this epic clash.",
       author: "Old Skool",
       date: "November 4, 2024",
-      image: "../assets/rapper4.jpg",
+      image: "https://media.newyorker.com/photos/646cd8d92414c58c2884e59b/1:1/w_1364,h_1365,c_limit/jck-battle-rap.jpg",
     },
     {
       id: 6,
@@ -52,7 +52,7 @@ const Home = () => {
       description: "The ultimate showdown between rap's finest.",
       author: "Queen Bee",
       date: "November 5, 2024",
-      image: "../assets/rapper5.jpg",
+      image: "https://vhx.imgix.net/ultimaterapleaguetv/assets/4a197731-1c73-4237-a5e2-8ed1b105e8e7-37a23805.png?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640",
     },
     {
       id: 7,
@@ -60,7 +60,7 @@ const Home = () => {
       description: "A battle that separates the real from the fake.",
       author: "Real Talk",
       date: "November 6, 2024",
-      image: "../assets/rapper6.jpg",
+      image: "https://i.ytimg.com/vi/LQMOSxVuZ9Q/maxresdefault.jpg",
     },
     {
       id: 8,
@@ -68,7 +68,7 @@ const Home = () => {
       description: "A lyrical battle to prove who reigns supreme.",
       author: "Bar King",
       date: "November 7, 2024",
-      image: "../assets/rapper7.jpg",
+      image: "https://i.ytimg.com/vi/WcazHNlS0zo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD9uRUIuZ9pTJVWs7sk4GJ1NbEb3w",
     },
     {
       id: 9,
@@ -76,7 +76,7 @@ const Home = () => {
       description: "In this battle, courage speaks louder than words.",
       author: "Valor MC",
       date: "November 8, 2024",
-      image: "../assets/rapper8.jpg",
+      image: "https://beats-rhymes-lists.com/wp-content/uploads/2023/02/busta-rhymes-feature-rapper-illustration.jpg",
     },
     {
       id: 10,
@@ -84,7 +84,7 @@ const Home = () => {
       description: "Unfiltered and raw, this battle showcases true talent.",
       author: "Raw Spitter",
       date: "November 9, 2024",
-      image: "../assets/rapper9.jpg",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSroD58LQPl4-6m_mKg1S6r-g_xrACUCirz5w&s",
     },
     {
       id: 11,
@@ -92,7 +92,7 @@ const Home = () => {
       description: "An intense competition with heavy beats and tight rhymes.",
       author: "Beat Master",
       date: "November 10, 2024",
-      image: "../assets/rapper10.jpg",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlamhNv5CZeRVpXKbjmfqj5HOP675R8UIp9w&s",
     },
     {
       id: 12,
@@ -100,7 +100,7 @@ const Home = () => {
       description: "Celebrating the best in the rap industry.",
       author: "Hip Hop Legend",
       date: "November 11, 2024",
-      image: "../assets/rapper11.jpg",
+      image: "https://m.media-amazon.com/images/I/61DWBohKNBL.jpg",
     },
     {
       id: 13,
@@ -108,7 +108,7 @@ const Home = () => {
       description: "Where rhythm meets rhyme for an unforgettable battle.",
       author: "Rhythm Artist",
       date: "November 12, 2024",
-      image: "../assets/rapper12.jpg",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyRRLGHfR-VbRPYOo5Fcog6Hgol2FoRMPVWw&s",
     },
     {
       id: 14,
@@ -116,7 +116,7 @@ const Home = () => {
       description: "A battle to see who can deliver the best lines.",
       author: "Wordsmith",
       date: "November 13, 2024",
-      image: "../assets/rapper13.jpg",
+      image: "https://www.rollingstone.com/wp-content/uploads/2024/05/kendrick-lamar-wins-the-beef.jpg?w=1600&h=900&crop=1",
     },
     {
       id: 15,
@@ -124,7 +124,7 @@ const Home = () => {
       description: "A grand finale to determine the ultimate champion.",
       author: "Champion MC",
       date: "November 14, 2024",
-      image: "../assets/rapper14.jpg",
+      image: "https://img.redbull.com/images/c_limit,w_1500,h_1000/f_auto,q_auto/redbullcom/2022/3/22/fvovarnigljgdxntdphn/red-bull-soundclash-chicago-2021-danny-brown-aint-it-funny",
     },
   ];
 
@@ -139,7 +139,7 @@ const Home = () => {
   return (
     <div className="container mx-auto p-4 mt-16 scroll-smooth">
       {/* Hero Section */}
-      <div className="flex flex-col items-center justify-center h-screen bg-gradient-to-r from-purple-700 to-blue-500 text-white text-center shadow-lg rounded-lg p-10 mb-12">
+      <div className="flex flex-col items-center justify-center h-screen bg-gradient-to-r from-purple-700 to-blue-600 text-white text-center shadow-lg rounded-lg p-10 mb-12">
         <h1 className="text-6xl font-extrabold mb-4 animate-fadeInDown">
           Join the Rap Battle Revolution!
         </h1>
@@ -191,3 +191,6 @@ const Home = () => {
 };
 
 export default Home;
+
+
+// image changes 
